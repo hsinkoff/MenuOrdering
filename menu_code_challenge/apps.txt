@@ -1,7 +1,7 @@
-$15.05
-mixed fruit,$2.15
-french fries,$2.75
-side salad,$3.35
-hot wings,$3.50
-mozzarella sticks,$5.55
-sampler plate,$6.00
+$12.07
+fruit,$2.05
+curly fries,$4.02
+cesear salad,$3.35
+milkshake,$3.50
+mozzarella sticks,$3.25
+cake,$6.00
