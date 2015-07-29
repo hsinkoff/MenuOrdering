@@ -1,4 +1,5 @@
-This file contains the ruby code to find an order that comes out to an exact total.  
+This file contains the ruby code to find an order that comes out to an exact total.
+It assumes you want to order only one of each dish so that you have the most variety possible.  
 It also contains an example file for the format of the menu.
 
 To use the code, first place the text file with the total price and menu options in the same folder as the file with the code.
